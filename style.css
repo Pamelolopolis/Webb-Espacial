@@ -1,0 +1,58 @@
+/* https://fonts.google.com/ */
+/* https://coolors.co/ */
+.title-web{
+    color: #F6AE2D;
+    text-align: center;
+    font-size: 60px;
+    background-image:url(https://hdwallpaperim.com/wp-content/uploads/2017/08/22/358584-universe-stars-space.jpg);
+    font-family: 'Lexend Peta', sans-serif;
+}
+body{
+    background-color:#102542;
+    text-align:justify;
+    font-family: 'Open Sans', sans-serif;
+    color:#ffffff;
+}
+img{
+    width: 460px;
+    height: 460px;
+    border-radius: 10px;
+}
+.video{
+    width: 460px;
+    height: 460px;
+    border-radius: 10px;
+}
+.four_antennas_alma{
+    width:500px;
+    min-height: 500px;
+}
+.title-astrobiologia{
+    font-size: 40px;
+    color:#F6AE2D;
+}
+.title-universo{
+    font-size: 40px;
+    color:#F6AE2D;
+}
+.title-estrellas{
+    font-size: 40px;
+    color:#F6AE2D;
+}
+.links{
+    color:#3ec7f5;
+    text-align: center;
+}
+.astro{
+    color:#3ec7f5;   
+}
+.uni{
+    color:#3ec7f5;
+}
+.estre{
+    color:#3ec7f5;
+}
+.lists{
+    column-count: 2;
+    text-align:left;
+}
